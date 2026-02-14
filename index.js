@@ -8,6 +8,8 @@ body {
 	</head>
 	
 	<body>
+		<h1>This is a Heading</h1>
+		<P>This is a paragraph.</p>
 	</body>
 	
 	</html>
