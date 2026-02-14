@@ -8,6 +8,7 @@ body {
 	</head>
 	
 	<body>
+		<p>This is another paragraph</p>
 	</body>
 	
 	</html>
